@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$%po-*fi(*cd5d_7h*vaq00cqtf((l(t%8i^a1=17=l&42u%8w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tweetalyze.onrender.com', 'www.tweetalyze.onrender.com']
 
 
 # Application definition
